@@ -16,6 +16,11 @@ Using the chief and deputy orbit elements in problem 14.2, compute the relative 
 
 (14.2) _a_ = 7500 km, _e_ = 0.01, _i_ = 45 deg, _&Omega;_ = 20.0 deg, _&omega;_ = 30 deg, and _M_<sub>0</sub> = 20 deg
 
+## Project Components
+
+1. Final submitted report
+2. MATLAB code for simulations and plots
+
 ## Reference
 
 Hanspeter Schaub, and John L. Junkins. Analytical Mechanics of Space Systems. American Institute Of Aeronautics And Astronautics, Inc, 2018.
